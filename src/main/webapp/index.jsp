@@ -2,11 +2,11 @@
 <html>
 <body>
 
-<p>Dheeraj did the changes.</p>
+<p>Madhu did the changes.</p>
 
 <p>Hello this is another test commit</p>
 
-<p>Dheeraj did the changes.</p>
+<p>Madhu did the changes.</p>
 
 <p>Hello this is another test commit</p>
 
